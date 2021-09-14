@@ -10,8 +10,11 @@
 
 
 ```javascript
+const reader = require("reader")
+
 const jonathan = {
     pronouns: "He" | "Him",
+    discord: "sonytv#4522",
     code: ["Javascript", "Python", "Java"],
     askMeAbout: ["web dev", "tech", "photography", "drones"],
     technologies: {
@@ -27,6 +30,10 @@ const jonathan = {
     },
     currentFocus: "Web development"
 };
+
+if(reader.wantsToContact(jonathan)){
+    console.log(`Talk to me on discord: ${jonathan.discord}`)
+}
 ```
 
 ---
