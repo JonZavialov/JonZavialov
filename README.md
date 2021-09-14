@@ -13,8 +13,11 @@
 const jonathan = {
     pronouns: "He" | "Him",
     discord: "sonytv#4522",
-    code: ["Javascript", "Python", "Java"],
-    askMeAbout: ["web dev", "tech", "photography", "drones"],
+    languages: {
+        programming: ["Javascript", "Python", "Java", "Bash"],
+        speaking: ["English", "Russian", "Spanish"]
+    },
+    hobbies: ["tech", "photography", "drones"],
     technologies: {
         backEnd: {
             js: ["Node", "Vite", "React"],
