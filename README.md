@@ -5,6 +5,7 @@
 ![](https://komarev.com/ghpvc/?username=JonZavialov&color=073642&style=flat-square)
 [![Linkedin](https://img.shields.io/badge/-Jonathan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jonathan-zavialov-6404b61bb)](https://www.linkedin.com/in/jonathan-zavialov-6404b61bb)
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=http://jonzav.me/)](http://jonzav.me/)
+![Discord](https://img.shields.io/badge/Discord-sonytv%234522-blue?style=flat-square&logo=discord)
 ![GitHub followers](https://img.shields.io/github/followers/JonZavialov?label=Follow&style=social)
 
 
