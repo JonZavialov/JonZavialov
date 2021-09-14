@@ -10,8 +10,6 @@
 
 
 ```javascript
-const reader = require("reader")
-
 const jonathan = {
     pronouns: "He" | "Him",
     discord: "sonytv#4522",
