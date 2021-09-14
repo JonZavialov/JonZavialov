@@ -19,7 +19,8 @@ const jonathan = {
             js: ["Node", "Vite", "React"],
             python: ["Flask"]
         },
-        devOps: ["Nginx"]
+        devOps: ["Nginx"],
+        misc: ["Mineflayer", "Discord"]
     },
     currentFocus: "Web development"
 };
