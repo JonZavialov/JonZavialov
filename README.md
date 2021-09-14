@@ -29,7 +29,7 @@ const jonathan = {
         linkedin: ["JavaScript"]
     },
     currentFocus: "Web development"
-};
+}
 
 if(reader.wantsToContact(jonathan)){
     console.log(`Talk to me on discord: ${jonathan.discord}`)
