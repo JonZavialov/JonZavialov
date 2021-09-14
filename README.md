@@ -21,12 +21,14 @@ const jonathan = {
         devOps: ["Nginx"],
         misc: ["Mineflayer", "discord.js", "discord.py"]
     },
+    certifications: {
+        linkedin: ["JavaScript"]
+    },
     currentFocus: "Web development"
 };
 ```
 
 ---
-<!--START_SECTION:stats-->
 ![](https://raw.githubusercontent.com/JonZavialov/JonZavialov/master/profile-summary-card-output/solarized_dark/0-profile-details.svg)
 ![](https://raw.githubusercontent.com/JonZavialov/JonZavialov/master/profile-summary-card-output/solarized_dark/1-repos-per-language.svg) ![](https://raw.githubusercontent.com/JonZavialov/JonZavialov/master/profile-summary-card-output/solarized_dark/2-most-commit-language.svg)
 ![](https://raw.githubusercontent.com/JonZavialov/JonZavialov/master/profile-summary-card-output/solarized_dark/3-stats.svg) ![](https://raw.githubusercontent.com/JonZavialov/JonZavialov/master/profile-summary-card-output/solarized_dark/4-productive-time.svg)
