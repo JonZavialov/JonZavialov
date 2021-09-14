@@ -24,7 +24,7 @@ const jonathan = {
         misc: ["Mineflayer", "discord.js", "discord.py"]
     },
     certifications: {
-        linkedin: ["JavaScript", "Python", "HTML", "CSS", "JSON"]
+        linkedin: ["JavaScript", "Python", "HTML", "CSS", "JSON", "Git"]
     },
     currentFocus: "Web development"
 }
