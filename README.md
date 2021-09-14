@@ -20,7 +20,7 @@ const jonathan = {
             python: ["Flask"]
         },
         devOps: ["Nginx"],
-        misc: ["Mineflayer", "Discord"]
+        misc: ["Mineflayer", "discord.js", "discord.py"]
     },
     currentFocus: "Web development"
 };
