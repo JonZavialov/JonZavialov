@@ -39,3 +39,4 @@ if(reader.wantsToContact(jonathan)){
 ![](https://raw.githubusercontent.com/JonZavialov/JonZavialov/master/profile-summary-card-output/solarized_dark/0-profile-details.svg)
 ![](https://raw.githubusercontent.com/JonZavialov/JonZavialov/master/profile-summary-card-output/solarized_dark/1-repos-per-language.svg) ![](https://raw.githubusercontent.com/JonZavialov/JonZavialov/master/profile-summary-card-output/solarized_dark/2-most-commit-language.svg)
 ![](https://raw.githubusercontent.com/JonZavialov/JonZavialov/master/profile-summary-card-output/solarized_dark/3-stats.svg) ![](https://raw.githubusercontent.com/JonZavialov/JonZavialov/master/profile-summary-card-output/solarized_dark/4-productive-time.svg)
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JonZavialov&theme=solarized-dark&hide_border=true)
