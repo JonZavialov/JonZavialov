@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FFFFFF&size=25&vCenter=true&width=300&height=25&lines=I'm+Jonathan+Zavialov!)](https://git.io/typing-svg)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FFFFFF&size=25&vCenter=true&width=300&height=25&lines=I'm+Jonathan+Zavialov!)
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 ---
 ![](https://komarev.com/ghpvc/?username=JonZavialov&color=073642&style=flat-square)
@@ -35,7 +35,11 @@ if(reader.wantsToContact(jonathan)){
 ```
 
 ---
-![](https://raw.githubusercontent.com/JonZavialov/JonZavialov/master/profile-summary-card-output/solarized_dark/0-profile-details.svg)
-![](https://raw.githubusercontent.com/JonZavialov/JonZavialov/master/profile-summary-card-output/solarized_dark/1-repos-per-language.svg) ![](https://raw.githubusercontent.com/JonZavialov/JonZavialov/master/profile-summary-card-output/solarized_dark/2-most-commit-language.svg)
-![](https://raw.githubusercontent.com/JonZavialov/JonZavialov/master/profile-summary-card-output/solarized_dark/3-stats.svg) ![](https://raw.githubusercontent.com/JonZavialov/JonZavialov/master/profile-summary-card-output/solarized_dark/4-productive-time.svg)
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JonZavialov&theme=solarized-dark&hide_border=true)
+<p align="center">
+    <img src="https://raw.githubusercontent.com/JonZavialov/JonZavialov/master/profile-summary-card-output/solarized_dark/0-profile-details.svg">
+    <img src= "https://raw.githubusercontent.com/JonZavialov/JonZavialov/master/profile-summary-card-output/solarized_dark/1-repos-per-language.svg">
+    <img src= "https://raw.githubusercontent.com/JonZavialov/JonZavialov/master/profile-summary-card-output/solarized_dark/2-most-commit-language.svg">
+    <img src= "https://raw.githubusercontent.com/JonZavialov/JonZavialov/master/profile-summary-card-output/solarized_dark/3-stats.svg">
+    <img src= "https://raw.githubusercontent.com/JonZavialov/JonZavialov/master/profile-summary-card-output/solarized_dark/4-productive-time.svg">
+    <img src= "http://github-readme-streak-stats.herokuapp.com?user=JonZavialov&theme=solarized-dark&hide_border=true">
+</p>
