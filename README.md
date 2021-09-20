@@ -13,7 +13,7 @@ const jonathan = {
     hobbies: ["tech", "photography", "drones"],
     languages: {
         programming: ["Javascript", "Python", "Java", "Bash"],
-        speaking: ["English", "Russian", "Spanish"]
+        other: ["English", "Russian", "Spanish"]
     },
     technologies: {
         backEnd: {
