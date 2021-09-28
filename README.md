@@ -20,7 +20,7 @@ const jonathan = {
             js: ["Node", "Vite", "React"],
             python: ["Flask"]
         },
-        devOps: ["Nginx"],
+        devOps: ["nginx"],
         misc: ["Mineflayer", "discord.js", "discord.py"]
     },
     certifications: {
