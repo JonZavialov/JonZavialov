@@ -10,7 +10,7 @@
 const jonathan = {
     pronouns: "He" | "Him",
     discord: "sonytv#4522",
-    hobbies: ["tech", "photography", "drones"],
+    hobbies: ["tech", "photography", "drones", "crypto"],
     languages: {
         programming: ["Javascript", "Python", "Java", "Bash"],
         other: ["English", "Russian", "Spanish"]
@@ -26,7 +26,7 @@ const jonathan = {
     certifications: {
         linkedin: ["JavaScript", "Python", "Java", "HTML", "CSS", "JSON", "Git"]
     },
-    currentFocus: "Web development"
+    currentFocus: "Solidity"
 }
 
 if(reader.wantsToContact(jonathan)){
