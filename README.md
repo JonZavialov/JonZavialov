@@ -8,7 +8,7 @@
 
 ```javascript
 const jonathan = {
-    pronouns: "He" | "Him",
+    pronouns: "He" || "Him",
     discord: "sonytv#4522",
     hobbies: ["tech", "photography", "drones", "crypto"],
     languages: {
