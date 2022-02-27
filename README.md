@@ -17,7 +17,7 @@ const jonathan = {
     },
     technologies: {
         backEnd: {
-            js: ["Node", "Vite", "React"],
+            js: ["Node", "Vite", "React", "Express"],
             python: ["Flask"]
         },
         devOps: ["nginx"],
