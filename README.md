@@ -16,10 +16,8 @@ const jonathan = {
         other: ["English", "Russian", "Spanish"]
     },
     technologies: {
-        backEnd: {
-            js: ["Node", "Vite", "React", "Express"],
-            python: ["Flask"]
-        },
+        js: ["Node", "Vite", "React", "Express"],
+        python: ["Flask"],
         devOps: ["nginx"],
         misc: ["Mineflayer", "discord.js", "discord.py"]
     },
