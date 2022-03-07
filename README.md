@@ -1,9 +1,10 @@
 <p align="center">
     <img src="/fullLogo.png" width="400">
 </p>
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 ---
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+
 ![Profile Visitors](https://komarev.com/ghpvc/?username=JonZavialov&color=073642&style=flat-square)
 [![Linkedin](https://img.shields.io/badge/-Jonathan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jonathan-zavialov-6404b61bb)](https://www.linkedin.com/in/jonathan-zavialov-6404b61bb)
 [![website](https://img.shields.io/badge/-Website-blue?style=flat-square&logo=Google-Chrome&logoColor=white&link=https://jonzav.me/)](https://jonzav.me/)
