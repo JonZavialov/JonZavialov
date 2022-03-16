@@ -23,7 +23,7 @@ const jonathan = {
         js: ["Node", "Vite", "React", "Express"],
         python: ["Flask"],
         devOps: ["nginx"],
-        misc: ["Mineflayer", "discord.js", "discord.py"]
+        misc: ["Mineflayer", "discord.js", "discord.py", "jQuery"]
     },
     certifications: {
         linkedin: ["JavaScript", "Python", "Java", "HTML", "CSS", "JSON", "Git"]
