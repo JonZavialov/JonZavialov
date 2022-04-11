@@ -14,6 +14,7 @@
 const jonathan = {
     pronouns: "He" || "Him",
     discord: "sonytv#4522",
+    website: "https://jonzav.me",
     hobbies: ["tech", "photography", "drones", "crypto"],
     languages: {
         programming: ["Javascript", "Python", "Java", "Bash"],
