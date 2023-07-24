@@ -21,9 +21,8 @@ const jonathan = {
     },
     technologies: {
         js: ["Node", "Vite", "React", "Express"],
-        python: ["Flask"],
-        devOps: ["nginx"],
-        misc: ["Mineflayer", "discord.js", "discord.py", "jQuery"]
+        python: ["Flask", "PySide6"],
+        devOps: ["nginx"]
     },
     certifications: {
         linkedin: ["JavaScript", "Python", "Java", "HTML", "CSS", "JSON", "Git"]
